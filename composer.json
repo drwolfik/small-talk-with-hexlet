@@ -7,4 +7,9 @@
         "./sayHi",
         "./sayBye"
     ]
+ 
+    "require": {
+        "drwolfik/small-talk-with-hexlet": "^0.1"
+    }
+
 }
